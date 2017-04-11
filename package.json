@@ -1,0 +1,33 @@
+{
+  "name": "dot-productify",
+  "version": "0.0.1",
+  "description": "Calculate the dot product of N * N matrices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jahans3/dotProductify.git"
+  },
+  "keywords": [
+    "dotproduct",
+    "dot",
+    "product",
+    "vector",
+    "matrix",
+    "matrices"
+  ],
+  "author": "Josh Jahans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jahans3/dotProductify/issues"
+  },
+  "homepage": "https://github.com/Jahans3/dotProductify#readme",
+  "devDependencies": {
+    "ts-loader": "^2.0.3",
+    "tslint-config-airbnb": "^1.1.1",
+    "typescript": "^2.2.2",
+    "webpack": "^2.3.3"
+  }
+}

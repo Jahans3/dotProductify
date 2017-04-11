@@ -1,8 +1,2 @@
 .idea
 node_modules
-bin
-stylesheets
-routes
-views
-app.js
-package.json
